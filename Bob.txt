@@ -1,0 +1,7 @@
+This is Bob file giving description of Bob.
+
+Characteristics of Bob:
+1. 12 years old
+2. Hobbies: Football, Drawing, Singing
+3. School: Love Dale Central School
+4. DOB: 23/06/2008
