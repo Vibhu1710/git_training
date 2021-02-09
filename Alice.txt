@@ -3,4 +3,5 @@ This ia a file i forked from a repository a while ago.
 Characteristics of Alice:
 1. Hobbies: Coding, Dancing
 2. 23 years old
+3. DOB: 23/06/1997
 3. College: Cambridge University
