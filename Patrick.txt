@@ -1,1 +1,2 @@
 This is Patrick file. A better one.
+It contains the characteristics of Patrick.
