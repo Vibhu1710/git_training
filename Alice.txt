@@ -1,4 +1,4 @@
-This ia a file i forked from a repository yesterday.
+This is a file i forked from a repository yesterday.
 
 Characteristics of Alice:
 1. Hobbies: Coding, Dancing
