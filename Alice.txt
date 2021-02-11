@@ -7,4 +7,5 @@ Characteristics of Alice:-
 3. DOB: 23/06/1997
 4. College: Cambridge University
 5. Behaviour: Exuberant, Energetic
-6. Country: USA
+6. Country: Canada
+
