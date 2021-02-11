@@ -1,1 +1,6 @@
-This is Patrick file. A better one.
+This is Patrick file. It contains characteristics of Patrick.
+
+Characteristics of Patrick:
+1. DOB: 20/10/1998
+2. Organisation: PEC ACM Student Chapter
+3. Position: Vice-Chair
