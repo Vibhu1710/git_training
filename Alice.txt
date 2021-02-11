@@ -1,10 +1,10 @@
 This is a file i forked from a repository yesterday. It contains some of the characteristics of Alice.
 Have a look at it :P
-yes testing phase.
 
 Characteristics of Alice:-
 1. Hobbies: Coding, Dancing
 2. 23 years old
 3. DOB: 23/06/1997
 4. College: Cambridge University
-5. Behaviour: exuberant
+5. Behaviour: Exuberant
+6. Country: USA
