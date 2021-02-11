@@ -1,4 +1,4 @@
-This is a file i forked from a repository yesterday. It contains some of the characteristics of Alice.
+This is a file I forked from a repository yesterday. It contains some of the characteristics of Alice.
 Have a look at it.
 
 Characteristics of Alice:-
