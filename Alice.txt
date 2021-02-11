@@ -1,5 +1,5 @@
 This is a file i forked from a repository yesterday. It contains some of the characteristics of Alice.
-Have a look at it :P
+Have a look at it.
 
 Characteristics of Alice:-
 1. Hobbies: Coding, Dancing
